@@ -43,7 +43,7 @@ zadanie-po-markdown-i-git-Kirillakrill created by GitHub Classroom
 
 ## <p align='center'> РЕЙТИНГ </p>
 
-<p align='center'> 'Рейтинговые показатели кафедры'</p>
+<p align='center'> '''Рейтинговые показатели кафедры'''</p>
 
 ### **Раздел "Учебно - методическое обеспечение образовательного процесса"**
 
